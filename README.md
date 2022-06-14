@@ -1,6 +1,6 @@
 # Alexander Lill
 
-**Read**: [A Layperson's Introduction to Computational Music Analysis and Generation]().
+**Read**: [A Layperson's Introduction to Computational Music Analysis and Generation](https://nbviewer.org/github/Alexlill/Alexlill/blob/main/layperson_guide.pdf).
 
 <!--
 **Alexlill/Alexlill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
