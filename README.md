@@ -1,4 +1,6 @@
-### Hi there 👋
+# Alexander Lill
+
+**Read**: [A Layperson's Introduction to Computational Music Analysis and Generation]().
 
 <!--
 **Alexlill/Alexlill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
